@@ -1,13 +1,4 @@
-# 👋 سلام! من [نام شما] هستم  
-
-🎯 برنامه‌نویس سیستم‌های نهفته و میکروکنترلر  
-
-🔧 مهارت‌های من:  
-![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B)  
-![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm)  
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif)  
-
+[![Telegram](https://img.shields.io/badge/Telegram-ارتباط%20با%20من-0088CC?style=for-the-badge&logo=telegram)](https://t.me/Amir_Mnsur)
 📌 پروژه‌های من:
 - 🔹 [پروژه کنترل موتور با STM32](https://github.com/yourrepo)
 - 🔹 [سیستم اندازه‌گیری دما با AVR](https://github.com/yourrepo)
